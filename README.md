@@ -1,1 +1,1 @@
-# hacktoberfest
+This repository is created for Hacktoberfest
